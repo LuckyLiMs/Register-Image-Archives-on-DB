@@ -1,0 +1,1 @@
+This is the first prototype that I made following tutorials to learn the basics of PHP by researching and doing prototype of sites based on ecommerces. This prototype has the basic of php just to save an image on a Data Base by PHP codes, the diferencial is that this one you can click on the cards and open a new tab that shows you the image more clearly.
